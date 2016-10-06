@@ -1,0 +1,19 @@
+{
+  "name": "UI-Bootstrap",
+  "main": "UI-Bootstrap.js",
+  "homepage": "https://angular-ui.github.io/bootstrap",
+  "authors": [
+    "ali@trendax.net"
+  ],
+  "description": "Bootstrap'ı Angular.js ile uyumlu şekilde çalıştırmak için gerekli modül.",
+  "keywords": [
+    "trendax",
+    "trendaxnet",
+    "trendax-ui",
+    "trendax-ui-bootstrap",
+    "ui-bootstrap",
+    "angular-ui",
+    "angular-ui-bootstrap"
+  ],
+  "license": "MIT"
+}
