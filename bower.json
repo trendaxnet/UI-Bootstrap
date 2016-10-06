@@ -1,6 +1,7 @@
 {
-  "name": "UI-Bootstrap",
-  "main": "UI-Bootstrap.js",
+  "name": "ui-bootstrap",
+  "version": "2.1.4",
+  "main": "ui-bootstrap.js",
   "homepage": "https://angular-ui.github.io/bootstrap",
   "authors": [
     "ali@trendax.net"
